@@ -7,21 +7,21 @@ Testes em uma aplicação em JavaScript com intuito de estudar sobre Jest e suas
 
 <hr>
 
-<h2>Base do Projeto<h2>
-O projeto está sendo desenovlvido usando como base o que é desenvolvido no curso `Aprenda a Testar Aplicações JavaScript`, do mais que querido <a href="https://github.com/vedovelli"><b>@vedovellifabio</b></a>
+<h2>Base do Projeto<h2> <br>
+<p>O projeto está sendo desenovlvido usando como base o que é desenvolvido no curso `Aprenda a Testar Aplicações JavaScript`, do mais que querido <a href="https://github.com/vedovelli"><b>@vedovellifabio</b></a></p>
 
 <hr>
 
 <h2>Rodando o projeto:</h2>
-<p>Após a clonagem efetuada para o diretório em sua máquina: <br>
-```console
+<p>Após a clonagem efetuada para o diretório em sua máquina: </p><br>
+```bash
 git clone https://github.com/RaulRoberto/Jest.git
 ```
 <br>
-Abra um terminal no diretório do projeto, instale as dependências necessárias usando npm ou yarn:  <br/>
+<p>Abra um terminal no diretório do projeto, instale as dependências necessárias usando npm ou yarn:  <br/>
 `npm install` ou `yarn add` <br>
 Para rodar os testes execute o comando abaixo:<br />
-`npm run test` ou `yarn test`<br>
+`npm run test` ou `yarn test` <br>
 
 _Este projeto também conta com o alias do comando `jest --watchAll` <br> que pode ser utilizado como `test:watch`_ <br>
 
