@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart checkout() should return an object with the total and the list of items 1`] = `
+{
+  "items": [
+    {
+      "product": {
+        "price": 35388,
+        "title": "Jordan SB",
+      },
+      "quantity": 2,
+    },
+    {
+      "product": {
+        "price": 34612,
+        "title": "Air Force",
+      },
+      "quantity": 3,
+    },
+  ],
+  "total": 174612,
+}
+`;
+
+exports[`Cart checkout() should return an object with the total and the list of items when summary is called 1`] = `
+{
+  "items": [
+    {
+      "product": {
+        "price": 35388,
+        "title": "Jordan SB",
+      },
+      "quantity": 2,
+    },
+    {
+      "product": {
+        "price": 34612,
+        "title": "Air Force",
+      },
+      "quantity": 3,
+    },
+  ],
+  "total": 174612,
+}
+`;
