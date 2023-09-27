@@ -112,7 +112,7 @@ describe('Cart', () => {
       expect(cart.getTotal().getAmount()).toEqual(74315);
     });
 
-    it('', () => {
+    it('should apply quantity discount for even quantities', () => {
       const condition = {
         quantity: 2,
       };
